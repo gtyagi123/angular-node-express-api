@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "angular-node-express-api",
+  "private_key_id": "37315968aeffd44d2edeb00b06ee724b254e7c93",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCTBFQiB4urYFAt\n9qJeOy1i1TF8B9vxNoyiurLu3dhIXUlVuT8HkwHkL/8IwfgRpmQiA2l3mFoBYehp\no6MuvLFrBCTw1GggKT7w8Gmcj/mbv+j93mba/azkZBDRqfMVlSk8i6OBiJcJ9ZEZ\n0LrN2IFHAHTQm5u3gs+S+A0tcnKZsg/Q3Gk2enT5tgCOYAP3jKcpO4Lt94GZ0ZNe\nXGVxeVcPy1+dbXo+zNfmdQCxG4wKT1dYD/Cbnl3KYJqxNm/USKP7sdwB57PUd2Ht\nW+CzqSIZrKqW7nTfanFh5mopqftrftCIet8svNcH54y3vZJmX/piqcY96O2b/YjY\nkDuHaeSJAgMBAAECggEAK/fPcZ3wF4DmediZFrV8DWLVOdLf5HP7+276tJWEaZ/8\nnraYMxu0JRp1m5jnJ+ArckCy+iGGSYOOjolx9DhalzbWFXBw861iNYyxCTHF5N6w\nP7yT5kqXunZy0UGSgZHqk0Dv1X2ULlZS3vWd6JInl6R7Syg+mdN1YO7ugfkIbQ5v\nvWlxMOcbiyytEcxlbfyTCkrxJHoe/G5yjWW5Lkx98ES1haJhrhRr9GSCKGQD615p\nvHDZKOePfXXIQqRkUlF2Zt+1AAZUycKhN8zIAwGBwqAZLyZruNVhHFHHKMX+yCQ/\noN66A6SEHhh6Aaj57Yycm+fJAez0fSyEx+8DWeKWQQKBgQDFeRDwQjpUi37W76c4\nUVjUDDM6/CeCAZDDBKcBHqRIsnlT6BvzJqHX5RLo6GOwNNihNbXD5c0gWQ00VcJC\nGLJv/0AEQ06ZywhIj9jnWVIckLZPCaI+EuVXlkZZcWDra4V0x+Ikcdh8JV0cBX9j\n4+yWiCb+LPpdwndvzF6cbjK1KwKBgQC+lv7mUwTSqQpVUREZdodnMLPps86zBcrA\n8LFV2ffLvgsgQxzE8kNRz25WTzht6yrJAnL4VoNj1FAwv5lJOv0dubNOqExX5MQC\nqMU5GC2U104vDJJKCOaQeT/jpsSuA0c00LWiqpxdW8seOdTp4Qh4A2nZSNxMAg19\nt7duFL/bGwKBgQCtT3nMQ3PKK7ugjCioxsw9Ho//3roV4aXZYsXnt6rbmrfdKkMN\nfgRg5M1Z2EtVpKvToL3sNk13bHCoU/Pv6pkArnbSxve/BnA4rvbg5IWqSF+Yso3Q\nCOl7m4oWielT9MPmIF+bOMeU/X3gT/rkAm/sFYaTYYpCq6ADYMxQYm7ijQKBgQC8\nMkndkZivk+/6MySZaitmP/dIDB9NM6j0QDg8OBGyBCTkZKDh8P98p0GixHNKRu9m\nsZ5pjrQLPbk5idiJMVCDq71dLF7GY8URgynMqQ1Jbhlr6BQEOynA+5mU6DZKRj5n\n7reMur/QiDXX0O9nSqicKXK59nJiM5yyyVi9wIt6hQKBgBjua7geCvUHOjiCEVoB\nkgquGtWM1IkY4WescQj8sqEv8rj/WpZ4lXHf7ukv+PqGe+PZEXjlEOmlCsktR724\nKUae4Rp7zBG+BOvA+X/QXwhEmGZ+GWsMn1o5sJCY2eHYTNr6XPMztnJ0LktXR/pN\n+r1hRTG17gDmQTyu5CfoWNQ7\n-----END PRIVATE KEY-----\n",
+  "client_email": "gitlab@angular-node-express-api.iam.gserviceaccount.com",
+  "client_id": "113900168470739789555",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gitlab%40angular-node-express-api.iam.gserviceaccount.com"
+}
